@@ -1,13 +1,13 @@
 # 📝 Smart Notes — Chrome Extension
 
 A lightweight Chrome extension for capturing and managing notes without leaving your browser.
-Built with a custom notebook-scribble aesthetic — ruled lines, Kalam font, dark theme.
+Built with a custom notebook scribble aesthetic — ruled lines, Kalam font, dark theme.
 
 ---
 
 ## Screenshot
 
-![Smart Notes](./screenshots/smart-notes.png)
+![Smart Notes](./smart-notes.png)
 
 ---
 
